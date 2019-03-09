@@ -139,6 +139,11 @@ body{
 	margin: 0 0 2% 0;
 }
 
+.container-gal .row .img{
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
 .container_gal img{
  width: 100%;
  max-width: 280px;	
@@ -240,6 +245,6 @@ footer{
 		margin-top: 25%;
 	}
 	*{
-		margin: 2% 5%;
+		margin: 2% 0%;
 	}
 }
